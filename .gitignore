@@ -1,0 +1,12 @@
+# venvs
+.venv/
+venv/
+# Python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Streamlit cache
+.streamlit/
+# OS
+.DS_Store
+Thumbs.db
